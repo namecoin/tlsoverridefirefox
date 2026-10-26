@@ -13,7 +13,7 @@ import (
 
 	"github.com/namecoin/ncdns/namecoin"
 	"github.com/namecoin/ncdns/ncdumpzone"
-	"github.com/namecoin/ncdns/tlsoverridefirefox"
+	"github.com/namecoin/tlsoverridefirefox"
 )
 
 var (
